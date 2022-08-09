@@ -1,0 +1,11 @@
+.box{
+    margin-left: 30%;
+    width: 500px;
+}
+body{
+    background-color: beige;
+}
+button{
+    border-style: none;
+    background-color: rgb(16, 211, 75);
+}

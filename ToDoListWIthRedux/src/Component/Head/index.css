@@ -1,0 +1,12 @@
+.header{
+    background-color: rgb(140, 228, 194);
+    height: 60px;
+    padding: 18px;
+}
+.head-ipt{
+    height: 25px;
+    width: 400px;
+    margin-top: 20px;
+    border: none;
+    border-bottom: solid 1px #cccccc;
+}
